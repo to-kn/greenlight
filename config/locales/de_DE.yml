@@ -36,7 +36,7 @@ de_DE:
         enabled: Aktiviert
         info: Nur authentifizierte Nutzer dürfen diesen Raum betreten
         title: Betreten des Raums erfordert Authentifizierung
-        user-info: "Sie müssen in Greenlight eingeloggt sein, um diesen Raum zu betreten"
+        user-info: "Sie müssen eingeloggt sein, um diesen Raum zu betreten"
       branding:
         change: Bild ändern
         info: Das in der linken oberen Ecke dargestellte Markenlogo ändern
@@ -228,13 +228,13 @@ de_DE:
     designs: Eigene Designs
     authentication: Nutzerauthentifizierung
   footer:
-    powered_by: "Bereitgestellt durch %{href}."
+    powered_by: "Bereitgestellt von https://www.bildungsplattform.org."
   forgot_password:
     subtitle: Passwort vergessen
     email: Email
     submit: Abschicken
   go_back: Zurück
-  greenlight: Greenlight
+  greenlight: Untericht@Bildungsplattform
   header:
     all_recordings: Alle Aufzeichnungen
     dropdown:
@@ -258,8 +258,8 @@ de_DE:
     search:
       start: Beginne die Suche...
   landing:
-    about: "%{href} ist ein einfacher Frontend für Ihren quelloffenen BigBlueButton Webkonferenzserver. Sie können ihre eigenen Räume erstellen, um Konferenzen abzuhalten oder Sie können bestehenden Konferenzen über einen praktischen Kurzlink beitreten."
-    welcome: Willkommen zu BigBlueButton.
+    about: "%{href} ist eine Oberfläche für Ihren quelloffenen BigBlueButton Webkonferenzserver. Sie können ihre eigenen Räume erstellen, um Konferenzen abzuhalten oder Sie können bestehenden Konferenzen über einen praktischen Kurzlink beitreten."
+    welcome: Willkommen.
     video: Schauen Sie sich unsere Anleitung zur Verwendung von Greenlight an
     upgrade: "Zeigen Sie mir, wie ich auf Version 2.0. update!"
     version: "Wir haben eine neue Version von Greenlight veröffentlicht, aber Ihre Datenbank ist damit nicht kompatibel."
